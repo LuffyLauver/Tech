@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+       <title>Exploring the Pros and Cons of Emerging Technologies</title>
+    <style>
+             body {
+            font-family: Arial, sans-serif;
+            background-color: #F5F5F5;
+            margin: 0;
+            padding: 0;
+	    background-image: url("https://res.cloudinary.com/dukpeycu2/image/upload/v1743433945/Untitled_design_1_wpdprc.png");
+	    background-size: cover;
+
+    }
+        
+         header {
+            background-color: #1C1C3D;
+            color: #FFFFFF;
+            text-align: center;
+            padding: 20px;
+  }
+        
+        h1 {
+            margin: 0;
+            font-size: 2.5;
+       }
+        
+        p.tagline {
+            font-size: 1.2;
+            margin-top: 5px;
+       }
+        
+     
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #1c0722;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+	   
+
+      }
+        
+        .banner  {
+            width: 100%;
+            height: 250px;
+            background: url("https://res.cloudinary.com/dukpeycu2/image/upload/v1743434451/Bridging_the_Gap_Between_Technology_and_Humanity._t6uyo6.png") no-repeat center center;
+            background-size: cover;
+            border-radius: 10px;
+        }
+        
+        h2 {
+            color: #e79fe5;
+        }
+        
+	 
+        .box {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 5px;
+            background-color: #EFF;
+        }
+        
+        ul {
+            padding-left: 20px;
+        	}	
+        
+        
+        footer {
+            background-color: #1C1C3D;
+            color: #FFFFFF;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+        
+        
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Exploring the Pros and Cons of Emerging Technologies</h1>
+    <p class="tagline">Understanding Technology’s Impact on Our World</p>
+</header>
+
+<div class="container">
+    
+
+    <div class="banner"></div>
+    <h2>The Impact of Emerging Technologies</h2>
+    <p style="color:#F5F5F5;">Emerging technologies such as Artificial Intelligence (AI), blockchain, and the Internet of Things (IoT) have the power to reshape industries and society. While these advancements offer remarkable benefits, they also come with challenges that require responsible use.</p>
+    <div class="box">
+        <h2>How People Can Help Mitigate the Effects of Emerging Technologies</h2>
+        <ul>
+            <li>Promote digital education and critical thinking in communities.</li>
+            <li>Support responsible development and use of AI and automation.</li>
+            <li>Advocate for ethical regulations and policies in technology.</li>
+            <li>Reduce e-waste by recycling old devices properly.</li>
+            <li>Encourage innovation that aligns with environmental sustainability.</li>
+        </ul>
+    </div>
+
+   
+    <div class="box">
+        <h2>Positive & Negative Effects of Emerging Technologies</h2>
+        
+        <h3>Positive Effects:</h3>
+        <ul>
+            <li>Enhanced Safety and Security.</li>
+            <li>Enhanced communication and global connectivity.</li>
+            <li>Improved Communication and Connectivity.</l1>
+            <li>Increased access to education and information worldwide.</li>
+        </ul>
+        
+<h3>Negative Effects:</h3>
+
+        <ul>
+            <li>Increased job displacement due to automation.</li>
+            <li>Privacy risks and potential data breaches.</li>
+            <li>Environmental concerns caused by excessive e-waste.</li>
+            <li>Potential misuse of AI leading to ethical dilemmas.</li>
+        </ul>
+    </div>
+</div>
+
+
+<footer>
+    <p>References:  
+        <a href=" https://www.weforum.org/" target="_blank">World Economic Forum</a> |  
+        <a href="https://www.mckinsey.com/" target="_blank">McKinsey & Company</a> |  
+        <a href="https://www.technologyreview.com/" target="_blank">MIT Technology Reviewa>  
+    </p>
+</footer>
+
+</body>
+</html>
